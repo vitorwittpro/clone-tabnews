@@ -1,6 +1,6 @@
 function Home() {
   return (
-    <h1>Você é especial. É um prazer conhecer você.</h1>
+    <h1>Você é especial.</h1>
   )
 }
 
