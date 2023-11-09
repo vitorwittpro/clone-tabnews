@@ -1,7 +1,7 @@
 function Home() {
   return (
     <div>
-      <video src="/movie.mp4" autoPlay />
+      <video src="/movie.mp4" autoPlay controls />
     </div>
   )
 }
